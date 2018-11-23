@@ -1,2 +1,1 @@
 FROM gcr.io/google_containers/flannel:v0.10.0-amd64
-MAINTAINER snowood
